@@ -8,7 +8,7 @@
 In this repository, we host the necessary data for reproducing our study on Covid-related Android apps.
 We believe this study to be of interest for the research community and encourage researchers to explore more in-depth our work.
 
-## Publications
+## Publication
 
 The paper is currently hosted on arXiv website at: 
 
@@ -21,7 +21,7 @@ Due to the convenience of access-on-demand to information and business solutions
 
 ## Contributing
 We would be glad if the community helps provide more sample for further studies, hence we are open to contributions.
-Note that we only consider Covid-related apps, therefore submitted apps will be verified before begin accepted.
+Note that we only consider Covid-related apps, therefore submitted apps will be verified before being accepted.
 
 ## Contact
 For any question regarding this study, please contact us at:
