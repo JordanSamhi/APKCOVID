@@ -11,6 +11,7 @@ We believe this study to be of interest for the research community and encourage
 ## Publication
 
 The paper is currently hosted on arXiv website at: 
+https://arxiv.org/abs/2006.11002
 
 ### Abstract
 
