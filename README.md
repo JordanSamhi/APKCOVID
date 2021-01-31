@@ -1,5 +1,9 @@
 # APKCOVID
 
+
+[![DOI](https://zenodo.org/badge/273182448.svg)](https://zenodo.org/badge/latestdoi/273182448)
+
+
 <p align="center">
   <img src="https://github.com/JordanSamhi/APKCOVID/blob/master/images/apkcovid.png" width="200" alt="APKCOVID">
 </p>
