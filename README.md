@@ -16,8 +16,7 @@ We believe this study to be of interest for the research community and encourage
 
 The paper has been accepted to be published in Empirical Software Engineering, Springer (EMSE) - 2021
 
-The paper is currently hosted on arXiv website at: 
-https://arxiv.org/abs/2006.11002
+The paper is available at: https://link.springer.com/article/10.1007/s10664-021-09943-x
 
 ### Abstract
 
